@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+#cv_btn a {
+    color: white;
+}
+
+#cv_btn a:hover {
+    color: green;
+    box-shadow: 2;
+}
